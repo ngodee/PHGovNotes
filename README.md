@@ -83,3 +83,4 @@ Again just to disclose as mentioned earlier, this is a very high level bullet po
 
 Early thoughts, also we could probably synthesize all these points later on and present what might be the overall cost of this project but I'm running out of time to actually do that!
 
+If you'd like find a way to work on it, just hit me up and let's find a way to get a project or two rolling!
